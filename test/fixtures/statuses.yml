@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  device: one
+  temperature: MyText
+  acceleration: MyText
+  location: MyText
+
+two:
+  device: two
+  temperature: MyText
+  acceleration: MyText
+  location: MyText
